@@ -1,0 +1,9 @@
+c:\users\kevin\documents\visual studio 2013\Projects\OculusWatcher\OculusWatcher\bin\Debug\OculusWatcher.exe.config
+c:\users\kevin\documents\visual studio 2013\Projects\OculusWatcher\OculusWatcher\bin\Debug\OculusWatcher.exe
+c:\users\kevin\documents\visual studio 2013\Projects\OculusWatcher\OculusWatcher\bin\Debug\OculusWatcher.pdb
+c:\users\kevin\documents\visual studio 2013\Projects\OculusWatcher\OculusWatcher\obj\Debug\OculusWatcher.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2013\Projects\OculusWatcher\OculusWatcher\obj\Debug\OculusWatcher.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2013\Projects\OculusWatcher\OculusWatcher\obj\Debug\OculusWatcher.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2013\Projects\OculusWatcher\OculusWatcher\obj\Debug\OculusWatcher.exe
+c:\users\kevin\documents\visual studio 2013\Projects\OculusWatcher\OculusWatcher\obj\Debug\OculusWatcher.pdb
+c:\users\kevin\documents\visual studio 2013\Projects\OculusWatcher\OculusWatcher\obj\Debug\OculusWatcher.frmMain.resources
